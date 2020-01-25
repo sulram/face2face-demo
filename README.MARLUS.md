@@ -34,7 +34,7 @@ python pix2pix.py \
 --mode train \
 --output_dir photos/output \
 --max_epochs 400 \
---input_dir photos/combined \
+--input_dir photos/combined/train \
 --which_direction AtoB
 ```
 
